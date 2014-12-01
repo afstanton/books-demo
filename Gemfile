@@ -46,6 +46,6 @@ end
 # Use Haml for markup because I like it.
 gem 'haml-rails'
 
-# Use Bootstrap because I'm not a developer
+# Use Bootstrap because I'm not a designer
 gem 'bootstrap-sass', '~> 3.3.0'
 gem 'autoprefixer-rails'
